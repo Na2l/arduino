@@ -4,8 +4,8 @@
   needed, use the instuctions here:
   https://learn.adafruit.com/adafruit-data-logger-shield/for-the-mega-and-leonardo
   to install the older library.
-  One the library is installed, format an SD Card (FAT) and copy some BMP files to the
-  SD Card (code used 01.bmp etc) and upload this sketch to the MEGA and enjoy:)
+  Once the library is installed, format an SD Card (FAT) and copy some BMP files to the
+  SD Card (code uses 01.bmp etc) and upload this sketch to the MEGA and enjoy:)
   
 
   This program is a demo of how to display a bmp picture from SD card
